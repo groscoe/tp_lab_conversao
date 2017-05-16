@@ -1,0 +1,8 @@
+Va	Ia	n	Vtaco
+230	1.0	1466	88
+167	0.8	1075	64.4
+103	0.75	670	40.2
+42	0.65	270	16.1
+
+Com tensão contínua (Za=Ra): V=2,1 V, I=1,99 A
+Com Va alternada (|Za|=sqrt(Ra^2+Xa^2)): V=16,2 V, I=2,01A
